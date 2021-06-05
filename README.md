@@ -1,1 +1,2 @@
-# ProductAppjjk
+axios install
+npm install react-select
